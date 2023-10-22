@@ -1,1 +1,1 @@
-# Acquiring-External-Data-and-Social-Media-Analytics
+# Social-Media-Analytics
